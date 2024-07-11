@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trinhhaidong !
-- 👀 I’m interested in Blockchain and Cryptocurrency.
+- 👀 I’m interested in Developing and Designing.
 - 🌱 I’m currently learning Software Engineer at FPT University.
-- 💞️ I’m looking to collaborate with a Blockchain company.
+- 💞️ I’m looking to collaborate with a company.
 - 📫 How to reach me ? 
     Contact via : 
   gmail : trinhhaidong.work@gmail.com
